@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\bin\Debug\net8.0\DevTeams.Data.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\bin\Debug\net8.0\DevTeams.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\bin\Debug\net8.0\DevTeams.Data.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\obj\Debug\net8.0\DevTeams.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\obj\Debug\net8.0\DevTeams.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\obj\Debug\net8.0\DevTeams.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\obj\Debug\net8.0\DevTeams.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\obj\Debug\net8.0\DevTeams.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\obj\Debug\net8.0\refint\DevTeams.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\obj\Debug\net8.0\DevTeams.Data.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Data\obj\Debug\net8.0\ref\DevTeams.Data.dll
